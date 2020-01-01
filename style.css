@@ -30,6 +30,8 @@ header{
 	width: 55%;
 	height: 87vh;
 	margin-left: 150px;
+	-webkit-filter: drop-shadow(5px 5px 5px #222);
+  	filter: drop-shadow(5px 5px 5px #222);
 }
 .introduction{
 	width: 50%;
@@ -60,5 +62,5 @@ header{
 	margin-top: 10px;
 }
 .social img{
-	padding-left: 20px;
+	padding-right: 20px;
 }
