@@ -1,0 +1,64 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+body{
+	
+	background: url("./Stark.jpg");
+}
+header{
+	font-family:"BankGothic";
+	font-size:70px;
+	height: 10vh;	
+	width: 90%;
+	margin: auto;
+	margin-top: 10px;
+}
+.presentation{
+	width: 90%;
+	margin:auto;
+	display: flex;
+}
+.hero ,.introduction{
+	flex: 1;
+}
+.hero{
+	width: 50%;
+}
+.hero img{
+	width: 55%;
+	height: 87vh;
+	margin-left: 150px;
+}
+.introduction{
+	width: 50%;
+}
+.line{
+	width: 250px;
+	height: 5px;
+	background: yellow;
+	margin-top: 150px;
+}
+.name{
+	font-family: "Montserrat";
+	font-size: 80px;
+	margin-top: 10px;
+}
+.designation{
+	font-family: "Poppins";
+	font-size: 30px;
+	color: white	;
+	margin-top: -10px;
+}
+.bio{
+	font-family: "Poppins";
+	font-size: 23px;
+	margin-top: 20px;
+}
+.social{
+	margin-top: 10px;
+}
+.social img{
+	padding-left: 20px;
+}
