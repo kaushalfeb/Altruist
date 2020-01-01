@@ -1,11 +1,13 @@
 # Altruist
-##### Resume and CV site in html and CSS
+##### Resume and CV site for creating profiles of team.
 
 
 **Do you know what's interesting?**
-> Two parallel lines are same in every way and walk next to each other <br> but they never meet. Ever. <br> <br> **But** every other line meet once. And never meet again.<br>Which is even more sad<br>
+
+>"parallel lines have a lot in common, but they never meet.Ever.<br>You might think that's sad.<br> But every other pair of lines meets once and then drifts apart forever.<br> Which is pretty sad too."
 
 ![Screenshot , Aim to reach](/AProfile.jpg)
 
 This is a sample in progress.
-By ##Kaushal Singh.
+By ## Kaushal Singh<br>
+(Quote isn't mine btw)
