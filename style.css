@@ -5,7 +5,9 @@
 }
 body{
 	
-	background: url("./Stark.jpg");
+	background: url("./Stark.png");
+	background-repeat: no-repeat;
+	background-size: 100% , 100%;
 }
 header{
 	font-family:"BankGothic";
@@ -31,7 +33,7 @@ header{
 	height: 87vh;
 	margin-left: 150px;
 	-webkit-filter: drop-shadow(5px 5px 5px #222);
-  	filter: drop-shadow(5px 5px 5px #222);
+  	xfilter: drop-shadow(5px 5px 5px #222);
 }
 .introduction{
 	width: 50%;
@@ -40,7 +42,7 @@ header{
 	width: 250px;
 	height: 5px;
 	background: yellow;
-	margin-top: 150px;
+	margin-top: 110px;
 }
 .name{
 	font-family: "Montserrat";
@@ -59,8 +61,9 @@ header{
 	margin-top: 20px;
 }
 .social{
-	margin-top: 10px;
+	margin-top: 20px;
 }
 .social img{
 	padding-right: 20px;
+
 }
