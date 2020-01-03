@@ -53,7 +53,7 @@ header img{
 .designation{
 	font-family: "Poppins";
 	font-size: 30px;
-	color: white	;
+	color: lightblue;
 	margin-top: -10px;
 }
 .bio{
@@ -67,7 +67,10 @@ header img{
 .social img{
 	padding-right: 20px;
 }
-	
+.social img:hover{
+	transform: scale(1.2);
+}
+
 .box{
 	height: 50px;
 	width: 50vh;
@@ -90,7 +93,7 @@ header img{
 }
 
 .abt{
-	color: white;
+	color: yellow;
 }
 a:hover{
 	color: white;
