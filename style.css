@@ -13,7 +13,6 @@ header{
 	height: 10vh;
 	width: 90%;
 	margin:auto;
-	background: lightgreen;
 }
 header img{
 	width: 300px;
@@ -23,7 +22,6 @@ header img{
 	width: 90%;
 	margin:auto;
 	display: flex;
-	background: lightblue;
 }
 .hero ,.introduction{
 	flex: 1;
