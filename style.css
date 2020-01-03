@@ -10,17 +10,20 @@ body{
 	background-size: 100% , 100%;
 }
 header{
-	font-family:"BankGothic";
-	font-size:70px;
-	height: 10vh;	
+	height: 10vh;
 	width: 90%;
-	margin: auto;
-	margin-top: 10px;
+	margin:auto;
+	background: lightgreen;
+}
+header img{
+	width: 300px;
+
 }
 .presentation{
 	width: 90%;
 	margin:auto;
 	display: flex;
+	background: lightblue;
 }
 .hero ,.introduction{
 	flex: 1;
@@ -65,5 +68,5 @@ header{
 }
 .social img{
 	padding-right: 20px;
-
 }
+	
