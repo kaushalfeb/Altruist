@@ -55,6 +55,8 @@ header img{
 	font-size: 30px;
 	color: lightblue;
 	margin-top: -10px;
+	animation:foo .7s ease-in;
+
 }
 .bio{
 	font-family: "Poppins";
@@ -120,7 +122,7 @@ a{
 	display: block;
 	width: 0;
 	height: 2px;
-	background: #fff;
+	background: yellow;
 	transition: width .3s;
 }
 
@@ -140,4 +142,16 @@ a{
 .git:hover::after{
 	width: 100%;
 	transition: width .3s;
+}
+
+@keyframes foo{
+	0%{
+		transform: translateY(50px);
+	}
+	50%{
+		transform: translateY(-25px);
+	}
+	100%{
+		transform: translateY(0px);
+	}
 }
