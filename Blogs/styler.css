@@ -17,11 +17,15 @@ body{
 	text-align: center;	
 	padding-top: 20vh;
 	padding-bottom: 20vh;
+	color: #054F66;
 }
 .topper{
 	height: 100vh;
 	width: 100%;	
-
+}
+.heading{
+	width: 70%;
+	margin: auto;
 }
 .titles{
 	font-family: Montserrat;
@@ -30,5 +34,46 @@ body{
 	text-align: left;
 	text-transform: uppercase;
 	color: #054F66;
-	margin-left: 150px;
+}
+.listing{
+	display: flex;
+	width: 70%;
+	height: 60vh;
+	margin:auto;
+	margin-top: 30px;
+}
+.postOne,.postTwo,.postThree{
+	flex: 1;
+}
+.postOne{
+	height: 70vh;
+	width: 100px;
+	}
+.postTwo{
+	height: 70vh;
+	width: 100px;
+}
+.postThree{
+	height: 70vh;
+	width: 100px;
+}
+.preview{
+	height: 50vh;
+	width: 90%;
+	margin-top: 10px;
+	margin:auto;
+}
+.preview img{
+	height: 100%;
+	width: 100%;
+}
+.subtopic{
+	margin-top: 20px;
+	font-family: Montserrat;
+	text-align: center;
+	color: #054F66;
+}
+.subtopic a{
+	text-decoration: none;
+	color: #054F66;
 }
