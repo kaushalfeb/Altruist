@@ -1,0 +1,13 @@
+*{
+	padding: 0px;
+	box-sizing: border-box;
+	margin: 0;
+}
+
+body{
+	background: gradient(green,blue);
+}
+.hero{
+	font-size: 30px;
+	color: red;
+}
