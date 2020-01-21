@@ -1,13 +1,20 @@
 *{
 	padding: 0px;
 	box-sizing: border-box;
-	margin: 0;
+	margin: 0px;
 }
 
 body{
-	background: gradient(green,blue);
+	background: linear-gradient(98deg, #E3F5FF 0%, #FFFFFF 100%);
 }
 .hero{
-	font-size: 30px;
-	color: red;
+	height: 100vh;
+	width: 100%;
+}
+.hero p{
+	font-family: Romantic Couple;
+	font-size: 100px;	
+	text-align: center;	
+	padding-top: 20vh;
+	padding-bottom: 20vh;
 }
