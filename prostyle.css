@@ -1,0 +1,20 @@
+*{
+	background: lightpink;
+}
+.LeftSide{
+	width: 100%;
+	background: lightblue;
+}
+.LeftSide img{
+	width: 100%;
+}
+.RightSide{
+	width: 100%;
+}
+.RightSide img{
+	width: 100%;
+}
+.LeftSide,.RightSide{
+	display: flex;
+	flex:1;
+}
