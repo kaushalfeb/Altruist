@@ -1,6 +1,5 @@
-*{
-	background: lightpink;
-}
+body{
+background: linear-gradient(270deg, #085078 0%, #85D8CE 100%);}
 
 .logo img{
 	width: 300px;
@@ -35,7 +34,6 @@ color: #10162C;
 }
 .LeftSide{
 	width: 100%;
-	background: lightblue;
 }
 .LeftSide img{
 	width: 100%;
@@ -52,7 +50,14 @@ color: #10162C;
 	display: flex;
 	width: 90%;
 	margin: auto;
-	margin-top: 40px;
+	margin-top: 55px;
+}
+.karya{
+	font-family: Martel;
+	position: absolute;
+	right: 0px;
+	font-size: 30px;
+	width: 100%;
 }
 @keyframes lubdub{
 	0%{
