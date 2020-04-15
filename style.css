@@ -74,7 +74,7 @@ header img{
 }
 
 .box{
-	height: 70px;
+	height: 50px;
 	width: 50vh;
 	float:left;
     transform:rotate(-90deg);
