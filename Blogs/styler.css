@@ -3,6 +3,12 @@
 	box-sizing: border-box;
 	margin: 0px;
 }
+@font-face {
+    font-family: Romantic;
+    src: url('./RomanticCouple.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
 
 body{
 	background: linear-gradient(98deg, #E3F5FF 0%, #FFFFFF 100%);
@@ -12,7 +18,7 @@ body{
 	width: 100%;
 }
 .hero p{
-	font-family: Romantic Couple;
+	font-family: Romantic;
 	font-size: 100px;	
 	text-align: center;	
 	padding-top: 20vh;
@@ -78,5 +84,5 @@ body{
 	color: #054F66;
 }
 footer{
-	font-family: 'Poppins'
+    font-family: 'Poppins', sans-serif;
 }

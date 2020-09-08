@@ -5,6 +5,14 @@
 	font-family: Montserrat;
 
 }
+@font-face {
+    font-family: Montserrat;
+    src: url('./Montserrat-Regular.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
 body{
 	background: linear-gradient(to right,#C9D6FF,#E2E2E2);
 }
